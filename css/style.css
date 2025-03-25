@@ -1,0 +1,15 @@
+.grid-container {
+  height: 748px;
+  width: 748px;
+  display: grid;
+  background-color: white;
+  grid-template-columns: 25% 75%;
+  grid-template-rows: 25% 25% 25%;
+  gap: 9px;
+}
+
+.profile {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.75rem;
+}
